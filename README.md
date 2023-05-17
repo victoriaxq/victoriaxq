@@ -1,6 +1,6 @@
 ### About me 👋
-- Graduanda em Engenharia da Computação no Centro de Informática - UFPE
-- Atualmente aprendendo HTML/CSS
+- Computer Engineering @ CIn/UFPE
+- Currently learning HTML/CSS
 
 <div align="center">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaxq&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
